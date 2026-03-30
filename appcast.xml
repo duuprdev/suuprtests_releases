@@ -3,13 +3,12 @@
     <channel>
         <title>SuuprTests Changelog</title>
         <item>
-            <title>Version 1.2.0</title>
+            <title>Version 0.0.1</title>
             <description>
                 <![CDATA[ 
                     <h1>New Features</h1> 
                     <ul>
-                      <li>Added rigid JSON validation when importing test cases.</li>
-                      <li>Auto updater implemented on the backend!</li>
+                      <li>Edit Test Cases</li>
                     </ul>
                 ]]>
             </description>
@@ -17,7 +16,7 @@
             <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests.zip"
                        sparkle:version="3"
                        sparkle:shortVersionString="1.2.0"
-                       sparkle:edSignature="VgOA7XGrr3lcxvw0LkttOlFLnDajqPLon02VYb+rbBMsvsK6ZTJtnmx30zZ7Hb0eLQGSAPSSwTWTd5FF8r9yAA==" length="27528979"
+                       sparkle:edSignature="Y1ccDZl48Xsw6PkIWr5ENd35pYTQCWGFyeKzf3ykV9ymyEdewSnjhnEQTtCk8jlm4zSRkoPJ2q7uGOINPDuODQ==" length="27540534"
                        type="application/octet-stream" />
         </item>
     </channel>
