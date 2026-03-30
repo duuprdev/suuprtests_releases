@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>SuuprTests Changelog</title>
+        <item>
+            <title>Version 1.2.0</title>
+            <description>
+                <![CDATA[ 
+                    <h1>New Features</h1> 
+                    <ul>
+                      <li>Added rigid JSON validation when importing test cases.</li>
+                      <li>Auto updater implemented on the backend!</li>
+                    </ul>
+                ]]>
+            </description>
+            <!-- The URL to your zipped new app, its version numbers, and the critical EdDSA signature -->
+            <enclosure url="https://suuprtests.duupr.io/downloads/SuuprTests-1.2.0.zip"
+                       sparkle:version="3"
+                       sparkle:shortVersionString="1.2.0"
+                       sparkle:edSignature="uuG70iuOhoXvW9Qqg4X3jHZBWX5bSiUfuZsshffXa5nq4Otf/B3nfs4V0Um19Gs6ea2WAwG4ewa6s34DlvfoBw==" length="27523232"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
