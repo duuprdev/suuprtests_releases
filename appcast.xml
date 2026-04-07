@@ -6,14 +6,14 @@
             <title>Version 1.0.0+1</title>
             <description>
                 <![CDATA[ 
-                    <h1>New Features</h1> 
+                    <h1>Features</h1> 
                     <ul>
-                      <li>Edit Test Cases</li>
+                      <li>Official Beta release of `suuprtests_ui`.</li>
                     </ul>
                 ]]>
             </description>
             <!-- The URL to your zipped new app, its version numbers, and the critical EdDSA signature -->
-            <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests.zip"
+            <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.zip"
                        sparkle:version="3"
                        sparkle:edSignature="LVPgkszPVB6K/+l5HiXFcep3nxpoVdlPpAUqKKPU16iKDfP9Q+gBb5ct9XnXWw596EShocQA3xbGMGLfYQaoDw==" length="27152274"
                        type="application/octet-stream" />
