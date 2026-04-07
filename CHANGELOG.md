@@ -4,7 +4,7 @@ All notable changes to the SuuprTests application will be documented in this fil
 The formats are structured so they can be easily parsed by our website to serve the latest downloads.
 
 ## [1.0.0+1] - 2026-04-07
-**[⬇️ Download for macOS](https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.zip)**
+**[⬇️ Download for macOS](https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.dmg)**
 
 ## 1.0.0+1
 -   Official Beta release of `suuprtests_ui`.

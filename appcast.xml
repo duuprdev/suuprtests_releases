@@ -13,7 +13,7 @@
                 ]]>
             </description>
             <!-- The URL to your zipped new app, its version numbers, and the critical EdDSA signature -->
-            <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.zip"
+            <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.dmg"
                        sparkle:version="3"
                        sparkle:edSignature="LVPgkszPVB6K/+l5HiXFcep3nxpoVdlPpAUqKKPU16iKDfP9Q+gBb5ct9XnXWw596EShocQA3xbGMGLfYQaoDw==" length="27152274"
                        type="application/octet-stream" />
