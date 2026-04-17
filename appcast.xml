@@ -17,7 +17,7 @@
             <!-- The URL to your zipped new app, its version numbers, and the critical EdDSA signature -->
             <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.dmg"
                        sparkle:version="3"
-                       sparkle:edSignature="FGEWSu7R8Oo6NIO3pzez7DJT7fz53rPqHSqN32nXxC0hoJdw0canuBtFh0R0zXw7VsvK/ag3zX5Q1QCkIM4fAQ==" length="27442309" type="application/octet-stream" />
+                       sparkle:edSignature="MXg8mcxklG8f3v8tlsXJKfqtGmpM2esd8mZ1D6zrS5lcWsESZVxdJdF1RLTEs6VYV5wOOydNAe4wBwnPFhdoDQ==" length="27441453" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
