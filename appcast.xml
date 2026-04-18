@@ -3,21 +3,20 @@
     <channel>
         <title>SuuprTests Dashboard Changelog</title>
         <item>
-            <title>Version 1.0.0+2</title>
+            <title>Version 1.0.0+3</title>
             <description>
                 <![CDATA[ 
                     <h1>Changes</h1> 
                     <ul>
-                      <li>Fixed issue with simulators dropdown</li>
-                      <li>Added documentation link to the about modal</li>
-                      <li>Fixed issue with the waitFor test step</li>
+                      <li>Fixed issue with test step inputs</li>
+                      <li>Fixed issue with capturing the test case description</li>
                     </ul>
                 ]]>
             </description>
             <!-- The URL to your zipped new app, its version numbers, and the critical EdDSA signature -->
             <enclosure url="https://duuprdev.github.io/suuprtests_releases/SuuprTests_Beta.dmg"
                        sparkle:version="3"
-                       sparkle:edSignature="MXg8mcxklG8f3v8tlsXJKfqtGmpM2esd8mZ1D6zrS5lcWsESZVxdJdF1RLTEs6VYV5wOOydNAe4wBwnPFhdoDQ==" length="27441453" type="application/octet-stream" />
+                       sparkle:edSignature="rSXnwXYiVsfBzZZMr6TwnMUJ6eleOCsumDo7XntviDx/Xa07QSJ7lGqM4oCt7tQtgSQcoU4Z/qXBX/Q3M1bvCw==" length="27441291" type="application/octet-stream" />
         </item>
     </channel>
 </rss>
